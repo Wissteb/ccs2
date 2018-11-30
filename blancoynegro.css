@@ -1,0 +1,14 @@
+
+@charset "utf-8";
+
+
+body{
+    background-color:white;
+}
+p{
+    border-top:black 3px solid;
+    border-bottom:black 3px solid;
+    background-color:black;
+    color: white;
+
+}
